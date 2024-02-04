@@ -40,7 +40,9 @@ El problema está en la incoherencia de los datos proporcionados dentro de la ta
 
 - Todas las apuuestas (excepto una) son realizadas por el usuario con id 88, esto no es una razon de mucho peso pero es extraño.
 - Todas las apuestas (excepto una) son realizadas al mismo partido, esto no es una razon de mucho peso pero es extraño.
-- Aún sabiendo que mayoritariamente las apuestas fueron realizadas hacia el partido cuyo id es el 1 (cuyo partido es el Villarreal vs Atalanta de 2021 y cuyo resultado fue de empate 2 a 2), los resultados __para el mismo partido__ fueron diferentes. Es decir, que para el mismo partido algunas apuestas dan como equipo ganador al Villarreal, otras al Atalanta, y otras se quedan vacias (que interpreté como un empate), lo cual no tiene ningún sentido.
+- Aún sabiendo que mayoritariamente las apuestas fueron realizadas hacia el partido cuyo id es el 1 , los resultados __para el mismo partido__ fueron diferentes. Es decir, que para el mismo partido algunas apuestas dan como equipo ganador al Villarreal, otras al Atalanta, y otras se quedan vacias (que interpreté como un empate), lo cual no tiene ningún sentido.
+
+> El partido en el que se basan las apuestas es el Villarreal vs Atalanta de 2021 y cuyo resultado fue de empate 2 a 2
 
 Debido a todos estos problemas expuestos, llego a la conclusion de que no es rentable hacer un análisis de predicción sobre estos datos, porque obtendremos resutados que no van a estar basados en unos datos coherentes.
 
