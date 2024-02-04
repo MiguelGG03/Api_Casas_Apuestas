@@ -15,3 +15,7 @@ Ejecutar ./install.sh para crear el entorno virtual y para instalar todos los mo
 ## Ejecucion
 
 Ejecutar ./boot.sh para hacer correr el servidor
+
+## Mi análisis
+
+El enlace al repositorio es el siguiente : []()
