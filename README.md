@@ -32,7 +32,7 @@ El enlace al repositorio es el siguiente : [https://github.com/MiguelGG03/Api_Ca
 
 ### Conclusiones
 
-Después de un análisis exhaustivo de los datos, he llegado a la conclusión de que no tiene sentido hacer un análisis de esta base de datos con fines de hacer predicciones o poder conocer futuros movimientos de los usuarios. Esta conclusion se debe a que hay mucha incoherencia en los datos.
+Después de un análisis exhaustivo de los datos, he llegado a la conclusión de que no tiene sentido hacer un análisis de esta base de datos con fines de hacer predicciones o poder conocer futuros movimientos de los usuarios.
 
 La limpieza de los datos supone practicamente cambiar por completo la tabla `apuestas` y hacer cambios tambien en partes de otras tablas como `partidos`.
 
