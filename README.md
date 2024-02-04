@@ -1,21 +1,5 @@
 # Limpieza de datos
 
-## Bookmaker-DS
-
-Sistema de apuestas para partidos de futbol de la UEFA Champions League
-
-## Instalacion
-
-Clonar el repositorio: [https://github.com/rubences/Api_Casas_Apuestas.git](https://github.com/rubences/Api_Casas_Apuestas.git)
-
-Crear un archivo .env utilizando de ejemplo .env-example
-
-Ejecutar ./install.sh para crear el entorno virtual y para instalar todos los modulos a utilizar
-
-## Ejecucion
-
-Ejecutar ./boot.sh para hacer correr el servidor
-
 ## Mi análisis
 
 El enlace al repositorio es el siguiente : [https://github.com/MiguelGG03/Api_Casas_Apuestas.git](https://github.com/MiguelGG03/Api_Casas_Apuestas.git)
@@ -49,3 +33,19 @@ Debido a todos estos problemas expuestos, llego a la conclusion de que no es ren
 ### Solución
 
 La única solucion es, o bien cambiar los datos manualmente registro por registro, o bien encontrar una nueva tabla apuestas con datos correctos.
+
+## Bookmaker-DS
+
+Sistema de apuestas para partidos de futbol de la UEFA Champions League
+
+## Instalacion
+
+Clonar el repositorio: [https://github.com/rubences/Api_Casas_Apuestas.git](https://github.com/rubences/Api_Casas_Apuestas.git)
+
+Crear un archivo .env utilizando de ejemplo .env-example
+
+Ejecutar ./install.sh para crear el entorno virtual y para instalar todos los modulos a utilizar
+
+## Ejecucion
+
+Ejecutar ./boot.sh para hacer correr el servidor
